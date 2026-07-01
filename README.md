@@ -18,5 +18,4 @@ I created this repository to:
 - Git
 - GitHub
 
-       
-                                                                           ---------------
+                          ---------------
