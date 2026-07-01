@@ -17,5 +17,4 @@ I created this repository to:
 - Python 3
 - Git
 - GitHub
-
                           ---------------
